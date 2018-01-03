@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ccdd9111-d6a5-475d-b234-16fe5d673177" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/a_customersinfo.php" afterPath="$PROJECT_DIR$/a_customersinfo.php" />
+      <change beforePath="$PROJECT_DIR$/a_customerssrch.php" afterPath="$PROJECT_DIR$/a_customerssrch.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="a_customerssrch.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a_customerssrch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="873" column="9" lean-forward="true" selection-start-line="873" selection-start-column="9" selection-end-line="873" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#23635#23641#0#HTML" expanded="true" />
+                <element signature="e#23679#23685#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#27233#27239#0#HTML" expanded="true" />
+                <element signature="e#27277#27283#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#30832#30838#0#HTML" expanded="true" />
+                <element signature="e#30876#30882#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#34232#34238#0#HTML" expanded="true" />
+                <element signature="e#34276#34282#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#4;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#37500#37506#0#HTML" expanded="true" />
+                <element signature="e#37544#37550#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#4;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#5;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#40843#40849#0#HTML" expanded="true" />
+                <element signature="e#40887#40893#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#5;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#6;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#44406#44412#0#HTML" expanded="true" />
+                <element signature="e#44450#44456#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#6;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#47969#47975#0#HTML" expanded="true" />
+                <element signature="e#48013#48019#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#51348#51354#0#HTML" expanded="true" />
+                <element signature="e#51392#51398#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#9;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#54876#54882#0#HTML" expanded="true" />
+                <element signature="e#54920#54926#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#9;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#10;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#58235#58241#0#HTML" expanded="true" />
+                <element signature="e#58279#58285#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#10;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#11;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#61549#61555#0#HTML" expanded="true" />
+                <element signature="e#61593#61599#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#11;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#12;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#64913#64919#0#HTML" expanded="true" />
+                <element signature="e#64957#64963#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#12;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#13;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#68658#68664#0#HTML" expanded="true" />
+                <element signature="e#68702#68708#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#13;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#14;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#71763#71769#0#HTML" expanded="true" />
+                <element signature="e#71807#71813#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#14;n#div#0;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a_customersinfo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a_customersinfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <marker date="1515003771297" expanded="true" signature="8127:8141" ph="SELECT * FRO... ${$this-&gt;getSqlFrom()}" />
+                <marker date="1515003771297" expanded="true" signature="12342:12386" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+                <marker date="1515003771297" expanded="true" signature="35451:35488" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Connection</find>
+      <find>function Update</find>
+      <find>&lt;?php $a_customers_view-&gt;ExportOptions-&gt;Render(&quot;body&quot;) ?&gt;</find>
+      <find>Render()</find>
+      <find>Render(&quot;body&quot;)</find>
+      <find>$option</find>
+      <find>option</find>
+      <find>function Render(</find>
+      <find>Render</find>
+      <find>function Render</find>
+      <find>render</find>
+      <find>function render(</find>
+      <find>function render</find>
+      <find>LoadRecordset</find>
+      <find>function LoadRecordset</find>
+      <find>body</find>
+      <find>$option-&gt;Render(&quot;body&quot;);</find>
+      <find>Renderoption</find>
+      <find>Rendercol</find>
+      <find>;</find>
+      <find>PHP</find>
+      <find>CONST</find>
+      <find>USE</find>
+      <find>DO</find>
+      <find>AND</find>
+      <find>FALSE</find>
+      <find>NULL</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>null</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ewcfg12.php" />
+        <option value="$PROJECT_DIR$/ewdbhelper12.php" />
+        <option value="$PROJECT_DIR$/php_stockdb.php" />
+        <option value="$PROJECT_DIR$/a_customersadd.php" />
+        <option value="$PROJECT_DIR$/a_customersdelete.php" />
+        <option value="$PROJECT_DIR$/phpfn12.php" />
+        <option value="$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmupload.html" />
+        <option value="$PROJECT_DIR$/a_customersview.php" />
+        <option value="$PROJECT_DIR$/function_1.php" />
+        <option value="$PROJECT_DIR$/a_customersupdate.php" />
+        <option value="$PROJECT_DIR$/a_customersedit.php" />
+        <option value="$PROJECT_DIR$/a_customerslist.php" />
+        <option value="$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmresourceslist.html" />
+        <option value="$PROJECT_DIR$/ckeditor/filemanager/browser/default/browser.html" />
+        <option value="$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmfolders.html" />
+        <option value="$PROJECT_DIR$/alertify/alertify.min_original.js" />
+        <option value="$PROJECT_DIR$/a_customerssrch.php" />
+        <option value="$PROJECT_DIR$/a_customersinfo.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="409" />
+    <option name="y" value="151" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="progetto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progetto" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="Message_Showing&#9;null&#9;null&#10;ctabl&#9;null&#9;null&#10;ctable&#9;null&#9;null&#10;cta&#9;null&#9;null&#10;Render3&#9;null&#9;null&#10;Render1&#9;null&#9;null&#10;Render&#9;null&#9;null&#10;cTable&#9;null&#9;null&#10;Connection&#9;null&#9;null&#10;ca_customers&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/progetto/index.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\Simone\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+          <option name="myCopyRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+          <option name="myCopyRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdd9111-d6a5-475d-b234-16fe5d673177" name="Default" comment="" />
+      <created>1513956046110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513956046110</updated>
+      <workItem from="1513956048083" duration="237000" />
+      <workItem from="1513956285984" duration="7388000" />
+      <workItem from="1514114923630" duration="500000" />
+      <workItem from="1514117162885" duration="3776000" />
+      <workItem from="1514373257029" duration="15980000" />
+      <workItem from="1514489428931" duration="1718000" />
+      <workItem from="1514889880954" duration="113000" />
+      <workItem from="1514992626922" duration="3634000" />
+      <workItem from="1514997842429" duration="745000" />
+      <workItem from="1514998720975" duration="3066000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6.">
+      <created>1513964530133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513964530134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6.">
+      <created>1514124521142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514124521142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Spent time: fixes #10141 @2h0m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore.">
+      <created>1514376616133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514376616133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Spent time: fixes #10141 @0h30m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore.">
+      <created>1514383766118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514383766118</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Spent time: fixes #10144 @0h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514386058126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1514386058126</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spent time: fixes #10144 @1h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514399317125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514399317125</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Spent time: fixes #10144 @2h0m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514407284100</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514407284100</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Spent time: fixes #10144 @2h0m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514493395133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1514493395133</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ripristino Back-up al codice sorgente prima del secondo ActionPlan">
+      <created>1514993114128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514993114129</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Spent time: fixes #10732 @0h0m&#10;Strategia di risoluzione: Sostituzione del metodo document.all con il metodo document.getElementById">
+      <created>1514995330128</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514995330128</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Spent time: fixes #10739 @0h0m&#10;Strategia di risoluzione: Rimozione o utilizzo delle variabili locali in precedenza non utilizzate">
+      <created>1514996085138</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514996085138</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Spent time: fixes #10744 @0h0m&#10;Strategia di risoluzione: Sostituzione dell'operatore ternario ?: con appositi if-else">
+      <created>1514997489132</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514997489132</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37344000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23697917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6." />
+    <MESSAGE value="Spent time: fixes #10141 @2h0m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore." />
+    <MESSAGE value="Spent time: fixes #10141 @0h30m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore." />
+    <MESSAGE value="Spent time: fixes #10144 @0h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+    <MESSAGE value="Spent time: fixes #10144 @1h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+    <MESSAGE value="Spent time: fixes #10144 @2h0m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+    <MESSAGE value="Ripristino Back-up al codice sorgente prima del secondo ActionPlan" />
+    <MESSAGE value="Spent time: fixes #10732 @0h0m&#10;Strategia di risoluzione: Sostituzione del metodo document.all con il metodo document.getElementById" />
+    <MESSAGE value="Spent time: fixes #10739 @0h0m&#10;Strategia di risoluzione: Rimozione o utilizzo delle variabili locali in precedenza non utilizzate" />
+    <MESSAGE value="Spent time: fixes #10744 @0h0m&#10;Strategia di risoluzione: Sostituzione dell'operatore ternario ?: con appositi if-else" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spent time: fixes #10744 @0h0m&#10;Strategia di risoluzione: Sostituzione dell'operatore ternario ?: con appositi if-else" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewcfg12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="60" column="160" lean-forward="true" selection-start-line="60" selection-start-column="160" selection-end-line="60" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_sales_detaildelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerssrch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="420" column="49" lean-forward="false" selection-start-line="420" selection-start-column="49" selection-end-line="420" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersdelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="369" column="43" lean-forward="false" selection-start-line="369" selection-start-column="43" selection-end-line="369" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewmysql12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewdbhelper12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_stockdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dompdf061/include/renderer.cls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpfn12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2590" column="13" lean-forward="true" selection-start-line="2590" selection-start-column="13" selection-end-line="2590" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="3021" column="0" lean-forward="false" selection-start-line="3021" selection-start-column="0" selection-end-line="3021" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="1079" column="0" lean-forward="false" selection-start-line="1079" selection-start-column="0" selection-end-line="1079" selection-end-column="0" />
+          <folding>
+            <marker date="1515003771297" expanded="true" signature="8127:8141" ph="SELECT * FRO... ${$this-&gt;getSqlFrom()}" />
+            <marker date="1515003771297" expanded="true" signature="12342:12386" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1515003771297" expanded="true" signature="35451:35488" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="1228" column="0" lean-forward="false" selection-start-line="1228" selection-start-column="0" selection-end-line="1228" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="1419" column="0" lean-forward="false" selection-start-line="1419" selection-start-column="0" selection-end-line="1419" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17366">
+          <caret line="1145" column="0" lean-forward="false" selection-start-line="1145" selection-start-column="0" selection-end-line="1145" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersadd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewcfg12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="60" column="160" lean-forward="true" selection-start-line="60" selection-start-column="160" selection-end-line="60" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_sales_detaildelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersdelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="369" column="43" lean-forward="false" selection-start-line="369" selection-start-column="43" selection-end-line="369" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewmysql12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewdbhelper12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_stockdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dompdf061/include/renderer.cls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpfn12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2590" column="13" lean-forward="true" selection-start-line="2590" selection-start-column="13" selection-end-line="2590" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmupload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersadd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1178" column="0" lean-forward="false" selection-start-line="1178" selection-start-column="0" selection-end-line="1194" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="106" column="5" lean-forward="false" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <marker date="1514995706236" expanded="true" signature="3037:3044" ph="×" />
+            <marker date="1514995706236" expanded="true" signature="3615:3622" ph="×" />
+            <marker date="1514995706236" expanded="true" signature="4945:4952" ph="×" />
+            <marker date="1514995706236" expanded="true" signature="5659:5666" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17768">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="471" column="12" lean-forward="false" selection-start-line="471" selection-start-column="12" selection-end-line="471" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="339" column="36" lean-forward="false" selection-start-line="339" selection-start-column="36" selection-end-line="339" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="1795" column="0" lean-forward="false" selection-start-line="1795" selection-start-column="0" selection-end-line="1795" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmfolders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor/filemanager/browser/default/browser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="102" column="46" lean-forward="false" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor/filemanager/browser/default/frmresourceslist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="179" column="0" lean-forward="true" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alertify/alertify.min_original.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerssrch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="873" column="9" lean-forward="true" selection-start-line="873" selection-start-column="9" selection-end-line="873" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#23635#23641#0#HTML" expanded="true" />
+            <element signature="e#23679#23685#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#27233#27239#0#HTML" expanded="true" />
+            <element signature="e#27277#27283#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#30832#30838#0#HTML" expanded="true" />
+            <element signature="e#30876#30882#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#2;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#34232#34238#0#HTML" expanded="true" />
+            <element signature="e#34276#34282#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#4;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#37500#37506#0#HTML" expanded="true" />
+            <element signature="e#37544#37550#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#4;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#5;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#40843#40849#0#HTML" expanded="true" />
+            <element signature="e#40887#40893#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#5;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#6;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#44406#44412#0#HTML" expanded="true" />
+            <element signature="e#44450#44456#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#6;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#47969#47975#0#HTML" expanded="true" />
+            <element signature="e#48013#48019#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#51348#51354#0#HTML" expanded="true" />
+            <element signature="e#51392#51398#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#9;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#54876#54882#0#HTML" expanded="true" />
+            <element signature="e#54920#54926#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#9;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#10;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#58235#58241#0#HTML" expanded="true" />
+            <element signature="e#58279#58285#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#10;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#11;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#61549#61555#0#HTML" expanded="true" />
+            <element signature="e#61593#61599#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#11;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#12;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#64913#64919#0#HTML" expanded="true" />
+            <element signature="e#64957#64963#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#12;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#13;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#68658#68664#0#HTML" expanded="true" />
+            <element signature="e#68702#68708#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#13;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#14;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#71763#71769#0#HTML" expanded="true" />
+            <element signature="e#71807#71813#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#0;n#div#14;n#div#0;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <marker date="1515003771297" expanded="true" signature="8127:8141" ph="SELECT * FRO... ${$this-&gt;getSqlFrom()}" />
+            <marker date="1515003771297" expanded="true" signature="12342:12386" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1515003771297" expanded="true" signature="35451:35488" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
